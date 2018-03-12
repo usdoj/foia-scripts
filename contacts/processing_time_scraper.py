@@ -12,8 +12,8 @@ import yaml
 """ This script scrapes processing times data from foia.gov and dumps
     the data in both the yaml files and `request_time_data.csv`."""
 
-PROCESSING_TIMES_URL = "https://www.foia.gov/foia/Services/DataProcessTime.jsp"
-YEARS_URL = 'https://www.foia.gov/data.html'
+PROCESSING_TIMES_URL = "https://archive.foia.gov/foia/Services/DataProcessTime.jsp"
+YEARS_URL = 'https://archive.foia.gov/data.html'
 
 
 def load_mapping(years=None):

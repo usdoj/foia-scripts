@@ -104,6 +104,11 @@ departments:
       simple_highest_days: '13'
       simple_lowest_days: '1'
       simple_median_days: '3'
+    '2017':
+      simple_average_days: '4'
+      simple_highest_days: '17'
+      simple_lowest_days: '1'
+      simple_median_days: '4'
   service_center:
     name: Richard Flahavan
     phone:
@@ -205,3 +210,8 @@ request_time_stats:
     simple_highest_days: '13'
     simple_lowest_days: '1'
     simple_median_days: '3'
+  '2017':
+    simple_average_days: '4'
+    simple_highest_days: '17'
+    simple_lowest_days: '1'
+    simple_median_days: '4'

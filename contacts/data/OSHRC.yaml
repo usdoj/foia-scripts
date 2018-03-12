@@ -135,6 +135,11 @@ departments:
       simple_highest_days: '36'
       simple_lowest_days: less than 1
       simple_median_days: '8'
+    '2017':
+      simple_average_days: '6.2'
+      simple_highest_days: '20'
+      simple_lowest_days: '1'
+      simple_median_days: '5'
   service_center:
     phone:
     - 202-606-5700
@@ -268,3 +273,8 @@ request_time_stats:
     simple_highest_days: '36'
     simple_lowest_days: less than 1
     simple_median_days: '8'
+  '2017':
+    simple_average_days: '6.2'
+    simple_highest_days: '20'
+    simple_lowest_days: '1'
+    simple_median_days: '5'

@@ -19,7 +19,12 @@ departments:
     phone:
     - 202-475-7700
   request_form: http://ssab.gov/Resources/FOIA
-  request_time_stats: {}
+  request_time_stats:
+    '2017':
+      simple_average_days: '5'
+      simple_highest_days: '5'
+      simple_lowest_days: '5'
+      simple_median_days: '5'
   service_center:
     name: David Warner
     phone:
@@ -33,4 +38,9 @@ description: The Social Security Advisory Board is a bipartisan, independent fed
   The Board has seven members, with three appointed by the President, two by the Senate,
   and two by the House of Representatives.
 name: Social Security Advisory Board
-request_time_stats: {}
+request_time_stats:
+  '2017':
+    simple_average_days: '5'
+    simple_highest_days: '5'
+    simple_lowest_days: '5'
+    simple_median_days: '5'

@@ -15,7 +15,12 @@ departments:
     name: Elizabeth G. Ray
     phone:
     - 571-959-4204
-  request_time_stats: {}
+  request_time_stats:
+    '2017':
+      simple_average_days: '2'
+      simple_highest_days: '2'
+      simple_lowest_days: '2'
+      simple_median_days: '2'
   service_center:
     name: Elizabeth G. Ray
     phone:
@@ -28,4 +33,9 @@ keywords:
 - Education
 - Scholarships and fellowships
 name: James Madison Memorial Fellowship Foundation
-request_time_stats: {}
+request_time_stats:
+  '2017':
+    simple_average_days: '2'
+    simple_highest_days: '2'
+    simple_lowest_days: '2'
+    simple_median_days: '2'

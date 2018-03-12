@@ -18,6 +18,11 @@ departments:
       simple_highest_days: '1'
       simple_lowest_days: '1'
       simple_median_days: '1'
+    '2017':
+      simple_average_days: '15'
+      simple_highest_days: '26'
+      simple_lowest_days: '1'
+      simple_median_days: '18'
   top_level: false
   website: https://www.truman.gov/foia/
 description: As the living memorial to our thirty-third President, the Harry S. Truman
@@ -35,3 +40,8 @@ request_time_stats:
     simple_highest_days: '1'
     simple_lowest_days: '1'
     simple_median_days: '1'
+  '2017':
+    simple_average_days: '15'
+    simple_highest_days: '26'
+    simple_lowest_days: '1'
+    simple_median_days: '18'

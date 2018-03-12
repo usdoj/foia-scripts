@@ -11,6 +11,11 @@ departments:
       simple_highest_days: '20'
       simple_lowest_days: '2'
       simple_median_days: '12'
+    '2017':
+      simple_average_days: '8'
+      simple_highest_days: '17'
+      simple_lowest_days: less than 1
+      simple_median_days: '7'
   top_level: false
   website: www.presidio.gov
 description: 'The Presidio Trust is an innovative federal agency created to save the
@@ -55,3 +60,8 @@ request_time_stats:
     simple_highest_days: '20'
     simple_lowest_days: '2'
     simple_median_days: '12'
+  '2017':
+    simple_average_days: '8'
+    simple_highest_days: '17'
+    simple_lowest_days: less than 1
+    simple_median_days: '7'

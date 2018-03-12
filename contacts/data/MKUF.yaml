@@ -1,7 +1,12 @@
 abbreviation: MKUF
 departments:
 - name: Morris K. Udall Foundation
-  request_time_stats: {}
+  request_time_stats:
+    '2017':
+      simple_average_days: '12'
+      simple_highest_days: '12'
+      simple_lowest_days: '12'
+      simple_median_days: '12'
   top_level: false
   website: www.udall.gov
 description: The Udall Foundation was established by the U.S. Congress in 1992 as
@@ -14,4 +19,9 @@ description: The Udall Foundation was established by the U.S. Congress in 1992 a
   nationwide that involve federal agencies or interests. In 2009, Congress enacted
   legislation to honor Stewart L. Udall and add his name to the Udall Foundation.
 name: Morris K. Udall Foundation
-request_time_stats: {}
+request_time_stats:
+  '2017':
+    simple_average_days: '12'
+    simple_highest_days: '12'
+    simple_lowest_days: '12'
+    simple_median_days: '12'

@@ -99,6 +99,19 @@ departments:
       simple_highest_days: '91'
       simple_lowest_days: '1'
       simple_median_days: '19'
+    '2017':
+      complex_average_days: '157'
+      complex_highest_days: '523'
+      complex_lowest_days: '21'
+      complex_median_days: '99'
+      expedited_processing_average_days: '5'
+      expedited_processing_highest_days: '12'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '3'
+      simple_average_days: '16'
+      simple_highest_days: '86'
+      simple_lowest_days: '1'
+      simple_median_days: '13'
   service_center:
     name: Melissa Keppel
     phone:
@@ -194,3 +207,16 @@ request_time_stats:
     simple_highest_days: '91'
     simple_lowest_days: '1'
     simple_median_days: '19'
+  '2017':
+    complex_average_days: '157'
+    complex_highest_days: '523'
+    complex_lowest_days: '21'
+    complex_median_days: '99'
+    expedited_processing_average_days: '5'
+    expedited_processing_highest_days: '12'
+    expedited_processing_lowest_days: '1'
+    expedited_processing_median_days: '3'
+    simple_average_days: '16'
+    simple_highest_days: '86'
+    simple_lowest_days: '1'
+    simple_median_days: '13'

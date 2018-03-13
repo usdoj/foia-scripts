@@ -18,7 +18,12 @@ departments:
     name: Cathy Shrestha
     phone:
     - 301-504-0087
-  request_time_stats: {}
+  request_time_stats:
+    '2017':
+      simple_average_days: '10.75'
+      simple_highest_days: '15'
+      simple_lowest_days: '4'
+      simple_median_days: '14'
   service_center:
     name: Michael Gosliner
     phone:
@@ -36,4 +41,9 @@ description: The Marine Mammal Commission provides independent, science-based ov
   point at which they cease to be significant functioning elements of the ecosystems
   of which they are a part.
 name: Marine Mammal Commission
-request_time_stats: {}
+request_time_stats:
+  '2017':
+    simple_average_days: '10.75'
+    simple_highest_days: '15'
+    simple_lowest_days: '4'
+    simple_median_days: '14'

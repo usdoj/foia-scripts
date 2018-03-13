@@ -25,6 +25,11 @@ departments:
       simple_highest_days: '121'
       simple_lowest_days: '2'
       simple_median_days: '19'
+    '2017':
+      simple_average_days: '46.13'
+      simple_highest_days: '112'
+      simple_lowest_days: '1'
+      simple_median_days: '40.5'
   service_center:
     name: Bryan Whitener
     phone:
@@ -59,3 +64,8 @@ request_time_stats:
     simple_highest_days: '121'
     simple_lowest_days: '2'
     simple_median_days: '19'
+  '2017':
+    simple_average_days: '46.13'
+    simple_highest_days: '112'
+    simple_lowest_days: '1'
+    simple_median_days: '40.5'

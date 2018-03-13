@@ -85,6 +85,11 @@ departments:
       simple_highest_days: '66'
       simple_lowest_days: '1'
       simple_median_days: '20'
+    '2017':
+      simple_average_days: '51'
+      simple_highest_days: '220'
+      simple_lowest_days: '6'
+      simple_median_days: '37'
   service_center:
     name: Amanda Haas
     phone:
@@ -174,3 +179,8 @@ request_time_stats:
     simple_highest_days: '66'
     simple_lowest_days: '1'
     simple_median_days: '20'
+  '2017':
+    simple_average_days: '51'
+    simple_highest_days: '220'
+    simple_lowest_days: '6'
+    simple_median_days: '37'

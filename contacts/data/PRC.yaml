@@ -126,6 +126,15 @@ departments:
       simple_highest_days: '47'
       simple_lowest_days: '3'
       simple_median_days: '15'
+    '2017':
+      expedited_processing_average_days: '8'
+      expedited_processing_highest_days: '8'
+      expedited_processing_lowest_days: '8'
+      expedited_processing_median_days: '8'
+      simple_average_days: '11'
+      simple_highest_days: '29'
+      simple_lowest_days: '2'
+      simple_median_days: '10'
   service_center:
     phone:
     - 202-789-6800
@@ -251,3 +260,12 @@ request_time_stats:
     simple_highest_days: '47'
     simple_lowest_days: '3'
     simple_median_days: '15'
+  '2017':
+    expedited_processing_average_days: '8'
+    expedited_processing_highest_days: '8'
+    expedited_processing_lowest_days: '8'
+    expedited_processing_median_days: '8'
+    simple_average_days: '11'
+    simple_highest_days: '29'
+    simple_lowest_days: '2'
+    simple_median_days: '10'

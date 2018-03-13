@@ -105,6 +105,12 @@
           "simple_highest_days": "79",
           "simple_lowest_days": "3",
           "simple_median_days": "24"
+        },
+        "2017": {
+          "simple_average_days": "11.5",
+          "simple_highest_days": "33",
+          "simple_lowest_days": "1",
+          "simple_median_days": "12"
         }
       },
       "service_center": {
@@ -193,6 +199,12 @@
       "simple_highest_days": "79",
       "simple_lowest_days": "3",
       "simple_median_days": "24"
+    },
+    "2017": {
+      "simple_average_days": "11.5",
+      "simple_highest_days": "33",
+      "simple_lowest_days": "1",
+      "simple_median_days": "12"
     }
   }
 }

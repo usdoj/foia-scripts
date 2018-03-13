@@ -1,30 +1,8 @@
-[![Coverage Status](https://coveralls.io/repos/18F/foia/badge.png)](https://coveralls.io/r/18F/foia)
-
 ## Current usage
 
-Currently this code is being used to annually update the processing time statistics on www.foia.gov. The full process below is not needed for this process. Rather, only these 2 scripts need to be run:
-```
-python processing_time_scraper.py
-python convert_to_json.py
-```
+Currently this code is being used to annually update the processing time statistics on www.foia.gov. All of the scripts in this folder are not being used, but are left in for now.
 
-## FOIA Contacts Data Builder
-
-The scripts in this directory are used for constructing a FOIA contact dataset for Federal Agencies and Offices. The data collected are stored
-in a set of yaml files inside the [data](https://github.com/18F/foia/tree/master/contacts/data) directory. These yaml files are
-then uploaded to 18F's [Django application](https://github.com/18F/foia-hub).
-
-## Process
-
-Building the FOIA contacts database is a multi-step process:
-
-1. Scraping the [FOIA.gov request form](https://www.foia.gov/report-makerequest.html) for contact data and adding in some additional manually curated data, stored in `manual_data/`.
-2. Filling in missing data using a CSV rendition of an [Excel spreadsheet](https://www.foia.gov/full-foia-contacts.xls) hosted on FOIA.gov.
-3. Downloading and adding descriptions, abbreviations, and IDs from the
-[USA Contacts API](http://www.usa.gov/api/USAGovAPI/contacts.json/contacts)
-4. Downloading and adding processing time data from [foia.gov/data](https://www.foia.gov/data.html)
-5. Downloading keywords for agencies from the Federal Register.
-6. Scraping agency and office FOIA websites to collect reading room urls.
+Some of this README has been pruned for clarity.
 
 ## Running Scripts
 
@@ -37,12 +15,8 @@ pip install -r requirements.txt
 Then run the following scripts in order:
 
 ```bash
-python scraper.py
-python layer_with_csv.py
-# python layer_with_usa_contacts.py # USAGov contacts no longer supports this API
 python processing_time_scraper.py
-python keywords_from_fr.py
-python layer_with_reading_room.py
+python convert_to_json.py
 ```
 
 ## Clearing Cache

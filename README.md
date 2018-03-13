@@ -1,3 +1,7 @@
+## Current usage
+
+Code in this repository is being used to periodically update data on www.foia.gov. See the `contacts` folder for details. The remainder of the repository (and this README) is not being maintained or used.
+
 ## FOIA Modernization
 
 This is the main repository for [18F's](https://18f.gsa.gov) FOIA modernization

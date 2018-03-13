@@ -1,11 +1,5 @@
 [![Coverage Status](https://coveralls.io/repos/18F/foia/badge.png)](https://coveralls.io/r/18F/foia)
 
-## FOIA Contacts Data Builder
-
-The scripts in this directory are used for constructing a FOIA contact dataset for Federal Agencies and Offices. The data collected are stored
-in a set of yaml files inside the [data](https://github.com/18F/foia/tree/master/contacts/data) directory. These yaml files are
-then uploaded to 18F's [Django application](https://github.com/18F/foia-hub).
-
 ## Current usage
 
 Currently this code is being used to annually update the processing time statistics on www.foia.gov. The full process below is not needed for this process. Rather, only these 2 scripts need to be run:
@@ -13,6 +7,12 @@ Currently this code is being used to annually update the processing time statist
 python processing_time_scraper.py
 python convert_to_json.py
 ```
+
+## FOIA Contacts Data Builder
+
+The scripts in this directory are used for constructing a FOIA contact dataset for Federal Agencies and Offices. The data collected are stored
+in a set of yaml files inside the [data](https://github.com/18F/foia/tree/master/contacts/data) directory. These yaml files are
+then uploaded to 18F's [Django application](https://github.com/18F/foia-hub).
 
 ## Process
 

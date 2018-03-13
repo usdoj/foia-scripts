@@ -6,6 +6,13 @@ The scripts in this directory are used for constructing a FOIA contact dataset f
 in a set of yaml files inside the [data](https://github.com/18F/foia/tree/master/contacts/data) directory. These yaml files are
 then uploaded to 18F's [Django application](https://github.com/18F/foia-hub).
 
+## Current usage
+
+Currently this code is being used to annually update the processing time statistics on www.foia.gov. The full process below is not needed for this process. Rather, only these 2 scripts need to be run:
+```
+python processing_time_scraper.py
+python convert_to_json.py
+```
 
 ## Process
 

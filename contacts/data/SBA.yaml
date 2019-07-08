@@ -116,6 +116,15 @@ departments:
       simple_highest_days: '335'
       simple_lowest_days: less than 1
       simple_median_days: '5'
+    '2018':
+      expedited_processing_average_days: '18.58'
+      expedited_processing_highest_days: '84'
+      expedited_processing_lowest_days: less than 1
+      expedited_processing_median_days: '3'
+      simple_average_days: '15.02'
+      simple_highest_days: '217'
+      simple_lowest_days: less than 1
+      simple_median_days: '7'
   service_center:
     phone:
     - 202-401-8203
@@ -352,3 +361,12 @@ request_time_stats:
     simple_highest_days: '335'
     simple_lowest_days: less than 1
     simple_median_days: '5'
+  '2018':
+    expedited_processing_average_days: '18.58'
+    expedited_processing_highest_days: '84'
+    expedited_processing_lowest_days: less than 1
+    expedited_processing_median_days: '3'
+    simple_average_days: '15.02'
+    simple_highest_days: '217'
+    simple_lowest_days: less than 1
+    simple_median_days: '7'

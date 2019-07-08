@@ -146,6 +146,15 @@ departments:
       simple_highest_days: '43'
       simple_lowest_days: '4'
       simple_median_days: '18'
+    '2018':
+      complex_average_days: '131.4'
+      complex_highest_days: '244'
+      complex_lowest_days: '55'
+      complex_median_days: '109'
+      simple_average_days: '21.75'
+      simple_highest_days: '78'
+      simple_lowest_days: '3'
+      simple_median_days: '20'
   service_center:
     name: Mae Ridges
     phone:
@@ -382,3 +391,12 @@ request_time_stats:
     simple_highest_days: '43'
     simple_lowest_days: '4'
     simple_median_days: '18'
+  '2018':
+    complex_average_days: '131.4'
+    complex_highest_days: '244'
+    complex_lowest_days: '55'
+    complex_median_days: '109'
+    simple_average_days: '21.75'
+    simple_highest_days: '78'
+    simple_lowest_days: '3'
+    simple_median_days: '20'

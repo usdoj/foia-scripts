@@ -138,6 +138,19 @@ departments:
       simple_highest_days: '669'
       simple_lowest_days: less than 1
       simple_median_days: '49'
+    '2018':
+      complex_average_days: '122.28'
+      complex_highest_days: '881'
+      complex_lowest_days: less than 1
+      complex_median_days: '88'
+      expedited_processing_average_days: '193'
+      expedited_processing_highest_days: '193'
+      expedited_processing_lowest_days: '193'
+      expedited_processing_median_days: '193'
+      simple_average_days: '58.97'
+      simple_highest_days: '665'
+      simple_lowest_days: less than 1
+      simple_median_days: '18'
   service_center:
     name: Eugenia Harris
     phone:
@@ -264,6 +277,19 @@ departments:
       simple_highest_days: '112'
       simple_lowest_days: less than 1
       simple_median_days: '10.5'
+    '2018':
+      complex_average_days: '67.23'
+      complex_highest_days: '304'
+      complex_lowest_days: '19'
+      complex_median_days: '49'
+      expedited_processing_average_days: '2'
+      expedited_processing_highest_days: '2'
+      expedited_processing_lowest_days: '2'
+      expedited_processing_median_days: '2'
+      simple_average_days: '14.38'
+      simple_highest_days: '72'
+      simple_lowest_days: '1'
+      simple_median_days: '14'
   service_center:
     phone:
     - 617-994-8218
@@ -431,6 +457,19 @@ departments:
       simple_highest_days: '138'
       simple_lowest_days: less than 1
       simple_median_days: '11'
+    '2018':
+      complex_average_days: '16.62'
+      complex_highest_days: '48'
+      complex_lowest_days: less than 1
+      complex_median_days: '9.5'
+      expedited_processing_average_days: '8'
+      expedited_processing_highest_days: '10'
+      expedited_processing_lowest_days: '6'
+      expedited_processing_median_days: '8'
+      simple_average_days: '20.21'
+      simple_highest_days: '394'
+      simple_lowest_days: less than 1
+      simple_median_days: '10'
   service_center:
     phone:
     - 215-656-0600
@@ -575,6 +614,19 @@ departments:
       simple_highest_days: '545'
       simple_lowest_days: less than 1
       simple_median_days: '18'
+    '2018':
+      complex_average_days: '28.22'
+      complex_highest_days: '168'
+      complex_lowest_days: less than 1
+      complex_median_days: '22'
+      expedited_processing_average_days: '32'
+      expedited_processing_highest_days: '34'
+      expedited_processing_lowest_days: '30'
+      expedited_processing_median_days: '32'
+      simple_average_days: '18.7'
+      simple_highest_days: '59'
+      simple_lowest_days: less than 1
+      simple_median_days: '18'
   service_center:
     phone:
     - 404-331-5001 x2380
@@ -715,6 +767,19 @@ departments:
       simple_highest_days: '218'
       simple_lowest_days: less than 1
       simple_median_days: '22'
+    '2018':
+      complex_average_days: '34.02'
+      complex_highest_days: '288'
+      complex_lowest_days: less than 1
+      complex_median_days: '17'
+      expedited_processing_average_days: '6'
+      expedited_processing_highest_days: '16'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '1'
+      simple_average_days: '14.13'
+      simple_highest_days: '173'
+      simple_lowest_days: less than 1
+      simple_median_days: '9.5'
   service_center:
     phone:
     - 312-353-5680 x2139
@@ -855,6 +920,19 @@ departments:
       simple_highest_days: '70'
       simple_lowest_days: less than 1
       simple_median_days: '13'
+    '2018':
+      complex_average_days: '39.34'
+      complex_highest_days: '157'
+      complex_lowest_days: '1'
+      complex_median_days: '31'
+      expedited_processing_average_days: '10.5'
+      expedited_processing_highest_days: '20'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '10.5'
+      simple_average_days: '14.95'
+      simple_highest_days: '39'
+      simple_lowest_days: less than 1
+      simple_median_days: '15'
   service_center:
     phone:
     - 817-978-5974 x1010
@@ -981,6 +1059,19 @@ departments:
       simple_highest_days: '41'
       simple_lowest_days: less than 1
       simple_median_days: '7.5'
+    '2018':
+      complex_average_days: '48'
+      complex_highest_days: '48'
+      complex_lowest_days: '48'
+      complex_median_days: '48'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '14.76'
+      simple_highest_days: '37'
+      simple_lowest_days: less than 1
+      simple_median_days: '15'
   service_center:
     phone:
     - 913-551-5476
@@ -1095,6 +1186,19 @@ departments:
       simple_highest_days: '83'
       simple_lowest_days: less than 1
       simple_median_days: '18'
+    '2018':
+      complex_average_days: '68.67'
+      complex_highest_days: '108'
+      complex_lowest_days: '20'
+      complex_median_days: '77.5'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '14.84'
+      simple_highest_days: '107'
+      simple_lowest_days: less than 1
+      simple_median_days: '13'
   service_center:
     phone:
     - 303-672-5440 x1442
@@ -1223,6 +1327,19 @@ departments:
       simple_highest_days: '612'
       simple_lowest_days: less than 1
       simple_median_days: '17'
+    '2018':
+      complex_average_days: '56.88'
+      complex_highest_days: '701'
+      complex_lowest_days: less than 1
+      complex_median_days: '24'
+      expedited_processing_average_days: '48'
+      expedited_processing_highest_days: '48'
+      expedited_processing_lowest_days: '48'
+      expedited_processing_median_days: '48'
+      simple_average_days: '15.57'
+      simple_highest_days: '46'
+      simple_lowest_days: less than 1
+      simple_median_days: '15.5'
   service_center:
     phone:
     - 916-498-7381
@@ -1354,6 +1471,19 @@ departments:
       simple_highest_days: '27'
       simple_lowest_days: less than 1
       simple_median_days: '17'
+    '2018':
+      complex_average_days: '71.44'
+      complex_highest_days: '294'
+      complex_lowest_days: less than 1
+      complex_median_days: '38'
+      expedited_processing_average_days: '1'
+      expedited_processing_highest_days: '1'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '1'
+      simple_average_days: '15.28'
+      simple_highest_days: '34'
+      simple_lowest_days: less than 1
+      simple_median_days: '15.5'
   service_center:
     phone:
     - 206-220-5101
@@ -1657,3 +1787,16 @@ request_time_stats:
     simple_highest_days: '669'
     simple_lowest_days: less than 1
     simple_median_days: '17'
+  '2018':
+    complex_average_days: '96.61'
+    complex_highest_days: '881'
+    complex_lowest_days: less than 1
+    complex_median_days: '69.5'
+    expedited_processing_average_days: '26.29'
+    expedited_processing_highest_days: '193'
+    expedited_processing_lowest_days: '1'
+    expedited_processing_median_days: '8'
+    simple_average_days: '40.17'
+    simple_highest_days: '665'
+    simple_lowest_days: less than 1
+    simple_median_days: '16'

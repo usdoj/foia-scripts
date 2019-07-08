@@ -38,6 +38,11 @@ departments:
       simple_highest_days: '28'
       simple_lowest_days: '5'
       simple_median_days: '16.5'
+    '2018':
+      simple_average_days: '28'
+      simple_highest_days: '28'
+      simple_lowest_days: '28'
+      simple_median_days: '28'
   service_center:
     name: Douglas Robinson
     phone:
@@ -68,3 +73,8 @@ request_time_stats:
     simple_highest_days: '28'
     simple_lowest_days: '5'
     simple_median_days: '16.5'
+  '2018':
+    simple_average_days: '28'
+    simple_highest_days: '28'
+    simple_lowest_days: '28'
+    simple_median_days: '28'

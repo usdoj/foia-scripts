@@ -105,6 +105,11 @@ departments:
       complex_highest_days: '181'
       complex_lowest_days: '5'
       complex_median_days: '32'
+    '2018':
+      complex_average_days: '78.07'
+      complex_highest_days: '247'
+      complex_lowest_days: '8'
+      complex_median_days: '63'
   service_center:
     phone:
     - 202-616-0646
@@ -199,3 +204,8 @@ request_time_stats:
     complex_highest_days: '181'
     complex_lowest_days: '5'
     complex_median_days: '32'
+  '2018':
+    complex_average_days: '78.07'
+    complex_highest_days: '247'
+    complex_lowest_days: '8'
+    complex_median_days: '63'

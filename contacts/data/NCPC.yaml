@@ -92,6 +92,11 @@ departments:
       simple_highest_days: '8'
       simple_lowest_days: less than 1
       simple_median_days: '3.5'
+    '2018':
+      simple_average_days: '2.57'
+      simple_highest_days: '8'
+      simple_lowest_days: '1'
+      simple_median_days: '2'
   service_center:
     name: Marcella Brown
     phone:
@@ -180,3 +185,8 @@ request_time_stats:
     simple_highest_days: '8'
     simple_lowest_days: less than 1
     simple_median_days: '3.5'
+  '2018':
+    simple_average_days: '2.57'
+    simple_highest_days: '8'
+    simple_lowest_days: '1'
+    simple_median_days: '2'

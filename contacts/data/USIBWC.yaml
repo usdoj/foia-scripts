@@ -108,6 +108,11 @@ departments:
       simple_highest_days: '80'
       simple_lowest_days: '1'
       simple_median_days: '10.5'
+    '2018':
+      simple_average_days: '18'
+      simple_highest_days: '72'
+      simple_lowest_days: '1'
+      simple_median_days: '14'
   service_center:
     name: Rebecca Rizzuti
     phone:
@@ -204,3 +209,8 @@ request_time_stats:
     simple_highest_days: '80'
     simple_lowest_days: '1'
     simple_median_days: '10.5'
+  '2018':
+    simple_average_days: '18'
+    simple_highest_days: '72'
+    simple_lowest_days: '1'
+    simple_median_days: '14'

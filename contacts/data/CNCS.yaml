@@ -132,6 +132,19 @@ departments:
       simple_highest_days: '57'
       simple_lowest_days: less than 1
       simple_median_days: '3'
+    '2018':
+      complex_average_days: '18.6'
+      complex_highest_days: '40'
+      complex_lowest_days: '7'
+      complex_median_days: '12'
+      expedited_processing_average_days: '6'
+      expedited_processing_highest_days: '10'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '7'
+      simple_average_days: '15'
+      simple_highest_days: '70'
+      simple_lowest_days: less than 1
+      simple_median_days: '10.5'
   service_center:
     name: Stephanie A. Soper
     phone:
@@ -385,3 +398,16 @@ request_time_stats:
     simple_highest_days: '57'
     simple_lowest_days: less than 1
     simple_median_days: '3'
+  '2018':
+    complex_average_days: '18.6'
+    complex_highest_days: '40'
+    complex_lowest_days: '7'
+    complex_median_days: '12'
+    expedited_processing_average_days: '6'
+    expedited_processing_highest_days: '10'
+    expedited_processing_lowest_days: '1'
+    expedited_processing_median_days: '7'
+    simple_average_days: '15'
+    simple_highest_days: '70'
+    simple_lowest_days: less than 1
+    simple_median_days: '10.5'

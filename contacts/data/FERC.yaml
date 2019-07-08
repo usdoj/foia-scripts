@@ -145,6 +145,15 @@ departments:
       simple_highest_days: '198'
       simple_lowest_days: '1'
       simple_median_days: '30'
+    '2018':
+      complex_average_days: '90'
+      complex_highest_days: '1056'
+      complex_lowest_days: '10'
+      complex_median_days: '30'
+      simple_average_days: '52'
+      simple_highest_days: '781'
+      simple_lowest_days: '2'
+      simple_median_days: '30'
   service_center:
     phone:
     - 202-502-6088
@@ -307,4 +316,13 @@ request_time_stats:
     simple_average_days: '34'
     simple_highest_days: '198'
     simple_lowest_days: '1'
+    simple_median_days: '30'
+  '2018':
+    complex_average_days: '90'
+    complex_highest_days: '1056'
+    complex_lowest_days: '10'
+    complex_median_days: '30'
+    simple_average_days: '52'
+    simple_highest_days: '781'
+    simple_lowest_days: '2'
     simple_median_days: '30'

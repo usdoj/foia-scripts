@@ -96,6 +96,11 @@ departments:
       simple_highest_days: '2'
       simple_lowest_days: less than 1
       simple_median_days: '1'
+    '2018':
+      simple_average_days: '1.42'
+      simple_highest_days: '9'
+      simple_lowest_days: less than 1
+      simple_median_days: less than 1
   service_center:
     phone:
     - 202-480-2080
@@ -186,3 +191,8 @@ request_time_stats:
     simple_highest_days: '2'
     simple_lowest_days: less than 1
     simple_median_days: '1'
+  '2018':
+    simple_average_days: '1.42'
+    simple_highest_days: '9'
+    simple_lowest_days: less than 1
+    simple_median_days: less than 1

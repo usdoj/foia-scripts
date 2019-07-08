@@ -75,6 +75,11 @@ departments:
       simple_highest_days: '15'
       simple_lowest_days: '1'
       simple_median_days: '15'
+    '2018':
+      simple_average_days: '3'
+      simple_highest_days: '3'
+      simple_lowest_days: '1'
+      simple_median_days: '2'
   service_center:
     name: Jacqueline Parrish
     phone:
@@ -145,3 +150,8 @@ request_time_stats:
     simple_highest_days: '15'
     simple_lowest_days: '1'
     simple_median_days: '15'
+  '2018':
+    simple_average_days: '3'
+    simple_highest_days: '3'
+    simple_lowest_days: '1'
+    simple_median_days: '2'

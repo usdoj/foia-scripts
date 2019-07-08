@@ -115,6 +115,11 @@ departments:
       simple_highest_days: '1'
       simple_lowest_days: '1'
       simple_median_days: '1'
+    '2018':
+      simple_average_days: '1.25'
+      simple_highest_days: '3'
+      simple_lowest_days: less than 1
+      simple_median_days: '1'
   service_center:
     phone:
     - 202-218-7910
@@ -219,6 +224,11 @@ departments:
       simple_highest_days: '6'
       simple_lowest_days: '6'
       simple_median_days: '6'
+    '2018':
+      simple_average_days: '7'
+      simple_highest_days: '9'
+      simple_lowest_days: '5'
+      simple_median_days: '7'
   service_center:
     phone:
     - 404-331-5300
@@ -575,6 +585,11 @@ departments:
       simple_highest_days: '30'
       simple_lowest_days: '30'
       simple_median_days: '30'
+    '2018':
+      simple_average_days: '20'
+      simple_highest_days: '20'
+      simple_lowest_days: '20'
+      simple_median_days: '20'
   service_center:
     phone:
     - 303-844-5226
@@ -758,6 +773,11 @@ departments:
       simple_highest_days: '2'
       simple_lowest_days: '2'
       simple_median_days: '2'
+    '2018':
+      simple_average_days: '10'
+      simple_highest_days: '10'
+      simple_lowest_days: '10'
+      simple_median_days: '10'
   service_center:
     phone:
     - 202-482-6700
@@ -839,6 +859,11 @@ departments:
       simple_highest_days: '14'
       simple_lowest_days: less than 1
       simple_median_days: '1.5'
+    '2018':
+      simple_average_days: '6.5'
+      simple_highest_days: '7'
+      simple_lowest_days: '6'
+      simple_median_days: '6.5'
   service_center:
     phone:
     - 202-218-7790
@@ -931,6 +956,11 @@ departments:
       simple_highest_days: '7'
       simple_lowest_days: less than 1
       simple_median_days: '3.5'
+    '2018':
+      simple_average_days: less than 1
+      simple_highest_days: less than 1
+      simple_lowest_days: less than 1
+      simple_median_days: less than 1
   service_center:
     phone:
     - 202-218-7770 x7744
@@ -1067,3 +1097,8 @@ request_time_stats:
     simple_highest_days: '22'
     simple_lowest_days: less than 1
     simple_median_days: '5.5'
+  '2018':
+    simple_average_days: '6.17'
+    simple_highest_days: '22'
+    simple_lowest_days: less than 1
+    simple_median_days: '5'

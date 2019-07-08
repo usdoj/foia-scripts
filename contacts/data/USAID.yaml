@@ -133,6 +133,19 @@ departments:
       simple_highest_days: '37'
       simple_lowest_days: less than 1
       simple_median_days: '10'
+    '2018':
+      complex_average_days: '260.22'
+      complex_highest_days: '1290'
+      complex_lowest_days: less than 1
+      complex_median_days: '128'
+      expedited_processing_average_days: '704.33'
+      expedited_processing_highest_days: '1003'
+      expedited_processing_lowest_days: '408'
+      expedited_processing_median_days: '702'
+      simple_average_days: '3'
+      simple_highest_days: '3'
+      simple_lowest_days: '3'
+      simple_median_days: '3'
   service_center:
     phone:
     - 202-712-0960
@@ -412,3 +425,16 @@ request_time_stats:
     simple_highest_days: '37'
     simple_lowest_days: less than 1
     simple_median_days: '10'
+  '2018':
+    complex_average_days: '260.22'
+    complex_highest_days: '1290'
+    complex_lowest_days: less than 1
+    complex_median_days: '128'
+    expedited_processing_average_days: '704.33'
+    expedited_processing_highest_days: '1003'
+    expedited_processing_lowest_days: '408'
+    expedited_processing_median_days: '702'
+    simple_average_days: '3'
+    simple_highest_days: '3'
+    simple_lowest_days: '3'
+    simple_median_days: '3'

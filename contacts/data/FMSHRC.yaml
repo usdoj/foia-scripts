@@ -149,6 +149,19 @@ departments:
       simple_highest_days: '25'
       simple_lowest_days: less than 1
       simple_median_days: '1'
+    '2018':
+      complex_average_days: '16.1'
+      complex_highest_days: '24'
+      complex_lowest_days: '2'
+      complex_median_days: '18.5'
+      expedited_processing_average_days: '1'
+      expedited_processing_highest_days: '1'
+      expedited_processing_lowest_days: less than 1
+      expedited_processing_median_days: '1'
+      simple_average_days: '2.4'
+      simple_highest_days: '16'
+      simple_lowest_days: less than 1
+      simple_median_days: '1'
   service_center:
     phone:
     - 202-434-9935
@@ -295,5 +308,18 @@ request_time_stats:
     expedited_processing_median_days: '1'
     simple_average_days: '3'
     simple_highest_days: '25'
+    simple_lowest_days: less than 1
+    simple_median_days: '1'
+  '2018':
+    complex_average_days: '16.1'
+    complex_highest_days: '24'
+    complex_lowest_days: '2'
+    complex_median_days: '18.5'
+    expedited_processing_average_days: '1'
+    expedited_processing_highest_days: '1'
+    expedited_processing_lowest_days: less than 1
+    expedited_processing_median_days: '1'
+    simple_average_days: '2.4'
+    simple_highest_days: '16'
     simple_lowest_days: less than 1
     simple_median_days: '1'

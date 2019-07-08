@@ -60,7 +60,7 @@ def delete_empty_data(data):
 
     keys = list(data.keys())
     for key in keys:
-        if data[key] == '':
+        if data[key] == '' or data[key] == ' ':
             del data[key]
     return data
 
@@ -94,7 +94,12 @@ def patch_yamls(top_level_data, dept_level_data):
     for filename in glob("data" + os.sep + "*.yaml"):
         short_filename = '_%s' % filename.strip('.yaml').strip('/data')
         with open(filename) as f:
-            yaml_data = yaml.load(f.read())
+            try:
+                yaml_data = yaml.load(f.read())
+            except Exception as e:
+                print('failure in ' + filename)
+                print(e)
+                return
         for year in years:
             year = "_%s" % year
             agency_key = yaml_data['name'] + short_filename + year
@@ -139,6 +144,14 @@ def get_row_data(key, row_data, column_names):
         data.append(row_data.get(column))
     return data
 
+def clean_row(row):
+    """
+    Cleans a row of data (list) before writing it to the CSV file.
+    """
+
+    row = ['' if x == ' ' else x for x in row]
+    return row
+
 
 def write_csv(data, top_level=False):
     """ Writes data to csv """
@@ -157,6 +170,7 @@ def write_csv(data, top_level=False):
         for key in sorted(data.keys()):
             writing_data = get_row_data(key, data[key], column_names)
             writing_data.append(level)
+            writing_data = clean_row(writing_data)
             writer.writerow(writing_data)
 
 

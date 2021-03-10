@@ -283,6 +283,34 @@
       "simple_highest_days": "657",
       "simple_lowest_days": "1",
       "simple_median_days": "9"
+    },
+    "2019": {
+      "complex_average_days": "87",
+      "complex_highest_days": "1290",
+      "complex_lowest_days": "1",
+      "complex_median_days": "50",
+      "expedited_processing_average_days": "84",
+      "expedited_processing_highest_days": "493",
+      "expedited_processing_lowest_days": "2",
+      "expedited_processing_median_days": "13",
+      "simple_average_days": "32",
+      "simple_highest_days": "641",
+      "simple_lowest_days": "1",
+      "simple_median_days": "8"
+    },
+    "2020": {
+      "complex_average_days": "116",
+      "complex_highest_days": "1639",
+      "complex_lowest_days": "1",
+      "complex_median_days": "36",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "56",
+      "simple_highest_days": "608",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "23"
     }
   }
 }

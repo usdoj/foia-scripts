@@ -94,6 +94,24 @@ departments:
       simple_highest_days: '6'
       simple_lowest_days: '1'
       simple_median_days: '1'
+    '2019':
+      simple_average_days: '8.2'
+      simple_highest_days: '23'
+      simple_lowest_days: '1'
+      simple_median_days: '3'
+    '2020':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '4.1'
+      simple_highest_days: '14'
+      simple_lowest_days: '1'
+      simple_median_days: '3'
   service_center:
     phone:
     - 928-779-2727 x145
@@ -174,3 +192,21 @@ request_time_stats:
     simple_highest_days: '6'
     simple_lowest_days: '1'
     simple_median_days: '1'
+  '2019':
+    simple_average_days: '8.2'
+    simple_highest_days: '23'
+    simple_lowest_days: '1'
+    simple_median_days: '3'
+  '2020':
+    complex_average_days: '0'
+    complex_highest_days: '0'
+    complex_lowest_days: '0'
+    complex_median_days: '0'
+    expedited_processing_average_days: '0'
+    expedited_processing_highest_days: '0'
+    expedited_processing_lowest_days: '0'
+    expedited_processing_median_days: '0'
+    simple_average_days: '4.1'
+    simple_highest_days: '14'
+    simple_lowest_days: '1'
+    simple_median_days: '3'

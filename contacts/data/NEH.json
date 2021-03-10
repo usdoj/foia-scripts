@@ -170,6 +170,33 @@
           "simple_highest_days": "21",
           "simple_lowest_days": "1",
           "simple_median_days": "16"
+        },
+        "2019": {
+          "complex_average_days": "25",
+          "complex_highest_days": "30",
+          "complex_lowest_days": "19",
+          "complex_median_days": "25.5",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "18",
+          "simple_highest_days": "49",
+          "simple_lowest_days": "1",
+          "simple_median_days": "20"
+        },
+        "2020": {
+          "complex_average_days": "49.5",
+          "complex_highest_days": "128",
+          "complex_lowest_days": "22",
+          "complex_median_days": "37",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "9.4",
+          "simple_highest_days": "21",
+          "simple_median_days": "6"
         }
       },
       "service_center": {
@@ -421,6 +448,33 @@
       "simple_highest_days": "21",
       "simple_lowest_days": "1",
       "simple_median_days": "16"
+    },
+    "2019": {
+      "complex_average_days": "25",
+      "complex_highest_days": "30",
+      "complex_lowest_days": "19",
+      "complex_median_days": "25.5",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "18",
+      "simple_highest_days": "49",
+      "simple_lowest_days": "1",
+      "simple_median_days": "20"
+    },
+    "2020": {
+      "complex_average_days": "49.5",
+      "complex_highest_days": "128",
+      "complex_lowest_days": "22",
+      "complex_median_days": "37",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "9.4",
+      "simple_highest_days": "21",
+      "simple_median_days": "6"
     }
   }
 }

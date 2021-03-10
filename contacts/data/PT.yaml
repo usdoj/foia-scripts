@@ -21,6 +21,24 @@ departments:
       simple_highest_days: '17'
       simple_lowest_days: less than 1
       simple_median_days: '7'
+    '2019':
+      simple_average_days: '1'
+      simple_highest_days: '1'
+      simple_lowest_days: '1'
+      simple_median_days: '1'
+    '2020':
+      complex_average_days: '0'
+      complex_highest_days: '0'
+      complex_lowest_days: '0'
+      complex_median_days: '0'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '4'
+      simple_highest_days: '10'
+      simple_lowest_days: '1'
+      simple_median_days: '2'
   top_level: false
   website: www.presidio.gov
 description: 'The Presidio Trust is an innovative federal agency created to save the
@@ -75,3 +93,21 @@ request_time_stats:
     simple_highest_days: '17'
     simple_lowest_days: less than 1
     simple_median_days: '7'
+  '2019':
+    simple_average_days: '1'
+    simple_highest_days: '1'
+    simple_lowest_days: '1'
+    simple_median_days: '1'
+  '2020':
+    complex_average_days: '0'
+    complex_highest_days: '0'
+    complex_lowest_days: '0'
+    complex_median_days: '0'
+    expedited_processing_average_days: '0'
+    expedited_processing_highest_days: '0'
+    expedited_processing_lowest_days: '0'
+    expedited_processing_median_days: '0'
+    simple_average_days: '4'
+    simple_highest_days: '10'
+    simple_lowest_days: '1'
+    simple_median_days: '2'

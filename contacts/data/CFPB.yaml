@@ -95,6 +95,28 @@ departments:
       simple_highest_days: '211'
       simple_lowest_days: less than 1
       simple_median_days: '12'
+    '2019':
+      complex_average_days: '109.4'
+      complex_highest_days: '352'
+      complex_lowest_days: '1'
+      complex_median_days: '75'
+      simple_average_days: '58.9'
+      simple_highest_days: '345'
+      simple_lowest_days: less than 1
+      simple_median_days: '27'
+    '2020':
+      complex_average_days: '190.46'
+      complex_highest_days: '656'
+      complex_lowest_days: '1'
+      complex_median_days: '143'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '11.78'
+      simple_highest_days: '75'
+      simple_lowest_days: '1'
+      simple_median_days: '10'
   service_center:
     phone:
     - 855-444-3642
@@ -233,3 +255,25 @@ request_time_stats:
     simple_highest_days: '211'
     simple_lowest_days: less than 1
     simple_median_days: '12'
+  '2019':
+    complex_average_days: '109.4'
+    complex_highest_days: '352'
+    complex_lowest_days: '1'
+    complex_median_days: '75'
+    simple_average_days: '58.9'
+    simple_highest_days: '345'
+    simple_lowest_days: less than 1
+    simple_median_days: '27'
+  '2020':
+    complex_average_days: '190.46'
+    complex_highest_days: '656'
+    complex_lowest_days: '1'
+    complex_median_days: '143'
+    expedited_processing_average_days: '0'
+    expedited_processing_highest_days: '0'
+    expedited_processing_lowest_days: '0'
+    expedited_processing_median_days: '0'
+    simple_average_days: '11.78'
+    simple_highest_days: '75'
+    simple_lowest_days: '1'
+    simple_median_days: '10'

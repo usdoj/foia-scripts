@@ -137,6 +137,32 @@ departments:
       simple_highest_days: '767'
       simple_lowest_days: '8'
       simple_median_days: '21.5'
+    '2019':
+      complex_average_days: '405.38'
+      complex_highest_days: '1292'
+      complex_lowest_days: less than 1
+      complex_median_days: '272'
+      expedited_processing_average_days: '135.56'
+      expedited_processing_highest_days: '306'
+      expedited_processing_lowest_days: less than 1
+      expedited_processing_median_days: '141'
+      simple_average_days: '69.62'
+      simple_highest_days: '206'
+      simple_lowest_days: less than 1
+      simple_median_days: '46'
+    '2020':
+      complex_average_days: '206.36'
+      complex_highest_days: '598'
+      complex_lowest_days: '1'
+      complex_median_days: '179'
+      expedited_processing_average_days: '10'
+      expedited_processing_highest_days: '15'
+      expedited_processing_lowest_days: '1'
+      expedited_processing_median_days: '4'
+      simple_average_days: '51.94'
+      simple_highest_days: '235'
+      simple_lowest_days: '1'
+      simple_median_days: '28'
   service_center:
     phone:
     - 202-254-3716
@@ -273,4 +299,30 @@ request_time_stats:
     simple_highest_days: '767'
     simple_lowest_days: '8'
     simple_median_days: '21.5'
+  '2019':
+    complex_average_days: '405.38'
+    complex_highest_days: '1292'
+    complex_lowest_days: less than 1
+    complex_median_days: '272'
+    expedited_processing_average_days: '135.56'
+    expedited_processing_highest_days: '306'
+    expedited_processing_lowest_days: less than 1
+    expedited_processing_median_days: '141'
+    simple_average_days: '69.62'
+    simple_highest_days: '206'
+    simple_lowest_days: less than 1
+    simple_median_days: '46'
+  '2020':
+    complex_average_days: '206.36'
+    complex_highest_days: '598'
+    complex_lowest_days: '1'
+    complex_median_days: '179'
+    expedited_processing_average_days: '10'
+    expedited_processing_highest_days: '15'
+    expedited_processing_lowest_days: '1'
+    expedited_processing_median_days: '4'
+    simple_average_days: '51.94'
+    simple_highest_days: '235'
+    simple_lowest_days: '1'
+    simple_median_days: '28'
 usa_id: '49593'

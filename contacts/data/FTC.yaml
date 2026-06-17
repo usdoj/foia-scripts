@@ -162,6 +162,32 @@ departments:
       simple_highest_days: '251'
       simple_lowest_days: less than 1
       simple_median_days: '11'
+    '2019':
+      complex_average_days: '36.06'
+      complex_highest_days: '329'
+      complex_lowest_days: '1'
+      complex_median_days: '20'
+      expedited_processing_average_days: '19.73'
+      expedited_processing_highest_days: '45'
+      expedited_processing_lowest_days: '3'
+      expedited_processing_median_days: '11'
+      simple_average_days: '9.7'
+      simple_highest_days: '129'
+      simple_lowest_days: '1'
+      simple_median_days: '6'
+    '2020':
+      complex_average_days: '26.35'
+      complex_highest_days: '530'
+      complex_lowest_days: less than 1
+      complex_median_days: '11'
+      expedited_processing_average_days: '28.54'
+      expedited_processing_highest_days: '207'
+      expedited_processing_lowest_days: less than 1
+      expedited_processing_median_days: '10'
+      simple_average_days: '6.07'
+      simple_highest_days: '161'
+      simple_lowest_days: less than 1
+      simple_median_days: '4'
   top_level: false
   website: http://www.ftc.gov/foia/
 description: The FTC pursues vigorous and effective law enforcement; advances consumers´
@@ -373,3 +399,29 @@ request_time_stats:
     simple_highest_days: '251'
     simple_lowest_days: less than 1
     simple_median_days: '11'
+  '2019':
+    complex_average_days: '36.06'
+    complex_highest_days: '329'
+    complex_lowest_days: '1'
+    complex_median_days: '20'
+    expedited_processing_average_days: '19.73'
+    expedited_processing_highest_days: '45'
+    expedited_processing_lowest_days: '3'
+    expedited_processing_median_days: '11'
+    simple_average_days: '9.7'
+    simple_highest_days: '129'
+    simple_lowest_days: '1'
+    simple_median_days: '6'
+  '2020':
+    complex_average_days: '26.35'
+    complex_highest_days: '530'
+    complex_lowest_days: less than 1
+    complex_median_days: '11'
+    expedited_processing_average_days: '28.54'
+    expedited_processing_highest_days: '207'
+    expedited_processing_lowest_days: less than 1
+    expedited_processing_median_days: '10'
+    simple_average_days: '6.07'
+    simple_highest_days: '161'
+    simple_lowest_days: less than 1
+    simple_median_days: '4'

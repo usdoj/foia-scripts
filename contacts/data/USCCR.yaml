@@ -105,6 +105,24 @@ departments:
       simple_highest_days: '26'
       simple_lowest_days: '1'
       simple_median_days: '7'
+    '2019':
+      simple_average_days: '17.4'
+      simple_highest_days: '171'
+      simple_lowest_days: '1'
+      simple_median_days: '14'
+    '2020':
+      complex_average_days: '112'
+      complex_highest_days: '225'
+      complex_lowest_days: '11'
+      complex_median_days: '172'
+      expedited_processing_average_days: '0'
+      expedited_processing_highest_days: '0'
+      expedited_processing_lowest_days: '0'
+      expedited_processing_median_days: '0'
+      simple_average_days: '50'
+      simple_highest_days: '100'
+      simple_lowest_days: '1'
+      simple_median_days: '27'
   service_center:
     phone:
     - 202-376-8351
@@ -193,3 +211,21 @@ request_time_stats:
     simple_highest_days: '26'
     simple_lowest_days: '1'
     simple_median_days: '7'
+  '2019':
+    simple_average_days: '17.4'
+    simple_highest_days: '171'
+    simple_lowest_days: '1'
+    simple_median_days: '14'
+  '2020':
+    complex_average_days: '112'
+    complex_highest_days: '225'
+    complex_lowest_days: '11'
+    complex_median_days: '172'
+    expedited_processing_average_days: '0'
+    expedited_processing_highest_days: '0'
+    expedited_processing_lowest_days: '0'
+    expedited_processing_median_days: '0'
+    simple_average_days: '50'
+    simple_highest_days: '100'
+    simple_lowest_days: '1'
+    simple_median_days: '27'

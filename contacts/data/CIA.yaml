@@ -140,6 +140,32 @@ departments:
       simple_highest_days: '1317'
       simple_lowest_days: '1'
       simple_median_days: '12'
+    '2019':
+      complex_average_days: '329.7'
+      complex_highest_days: '2641'
+      complex_lowest_days: '4'
+      complex_median_days: '191.5'
+      expedited_processing_average_days: '88'
+      expedited_processing_highest_days: '145'
+      expedited_processing_lowest_days: '31'
+      expedited_processing_median_days: '88'
+      simple_average_days: '20.11'
+      simple_highest_days: '100'
+      simple_lowest_days: less than 1
+      simple_median_days: '14'
+    '2020':
+      complex_average_days: '331.68'
+      complex_highest_days: '3043'
+      complex_lowest_days: less than 1
+      complex_median_days: '158'
+      expedited_processing_average_days: '41.56'
+      expedited_processing_highest_days: '94'
+      expedited_processing_lowest_days: '6'
+      expedited_processing_median_days: '36'
+      simple_average_days: '6.9'
+      simple_highest_days: '75'
+      simple_lowest_days: less than 1
+      simple_median_days: '4'
   service_center:
     phone:
     - 703-613-1287
@@ -275,3 +301,29 @@ request_time_stats:
     simple_highest_days: '1317'
     simple_lowest_days: '1'
     simple_median_days: '12'
+  '2019':
+    complex_average_days: '329.7'
+    complex_highest_days: '2641'
+    complex_lowest_days: '4'
+    complex_median_days: '191.5'
+    expedited_processing_average_days: '88'
+    expedited_processing_highest_days: '145'
+    expedited_processing_lowest_days: '31'
+    expedited_processing_median_days: '88'
+    simple_average_days: '20.11'
+    simple_highest_days: '100'
+    simple_lowest_days: less than 1
+    simple_median_days: '14'
+  '2020':
+    complex_average_days: '331.68'
+    complex_highest_days: '3043'
+    complex_lowest_days: less than 1
+    complex_median_days: '158'
+    expedited_processing_average_days: '41.56'
+    expedited_processing_highest_days: '94'
+    expedited_processing_lowest_days: '6'
+    expedited_processing_median_days: '36'
+    simple_average_days: '6.9'
+    simple_highest_days: '75'
+    simple_lowest_days: less than 1
+    simple_median_days: '4'

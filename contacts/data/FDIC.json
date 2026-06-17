@@ -193,6 +193,34 @@
           "simple_highest_days": "56",
           "simple_lowest_days": "less than 1",
           "simple_median_days": "8"
+        },
+        "2019": {
+          "complex_average_days": "28.27",
+          "complex_highest_days": "109",
+          "complex_lowest_days": "7",
+          "complex_median_days": "23",
+          "expedited_processing_average_days": "7.67",
+          "expedited_processing_highest_days": "17",
+          "expedited_processing_lowest_days": "2",
+          "expedited_processing_median_days": "7",
+          "simple_average_days": "10.55",
+          "simple_highest_days": "98",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "7"
+        },
+        "2020": {
+          "complex_average_days": "20.42",
+          "complex_highest_days": "126",
+          "complex_lowest_days": "1",
+          "complex_median_days": "17",
+          "expedited_processing_average_days": "9.5",
+          "expedited_processing_highest_days": "17",
+          "expedited_processing_lowest_days": "2",
+          "expedited_processing_median_days": "9.5",
+          "simple_average_days": "8.06",
+          "simple_highest_days": "34",
+          "simple_lowest_days": "less than 1",
+          "simple_median_days": "6"
         }
       },
       "service_center": {
@@ -441,6 +469,34 @@
       "simple_highest_days": "56",
       "simple_lowest_days": "less than 1",
       "simple_median_days": "8"
+    },
+    "2019": {
+      "complex_average_days": "28.27",
+      "complex_highest_days": "109",
+      "complex_lowest_days": "7",
+      "complex_median_days": "23",
+      "expedited_processing_average_days": "7.67",
+      "expedited_processing_highest_days": "17",
+      "expedited_processing_lowest_days": "2",
+      "expedited_processing_median_days": "7",
+      "simple_average_days": "10.55",
+      "simple_highest_days": "98",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "7"
+    },
+    "2020": {
+      "complex_average_days": "20.42",
+      "complex_highest_days": "126",
+      "complex_lowest_days": "1",
+      "complex_median_days": "17",
+      "expedited_processing_average_days": "9.5",
+      "expedited_processing_highest_days": "17",
+      "expedited_processing_lowest_days": "2",
+      "expedited_processing_median_days": "9.5",
+      "simple_average_days": "8.06",
+      "simple_highest_days": "34",
+      "simple_lowest_days": "less than 1",
+      "simple_median_days": "6"
     }
   }
 }

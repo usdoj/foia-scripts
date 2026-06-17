@@ -150,6 +150,34 @@
           "simple_highest_days": "226",
           "simple_lowest_days": "1",
           "simple_median_days": "16"
+        },
+        "2019": {
+          "complex_average_days": "215.06",
+          "complex_highest_days": "874",
+          "complex_lowest_days": "1",
+          "complex_median_days": "123",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "36.47",
+          "simple_highest_days": "376",
+          "simple_lowest_days": "1",
+          "simple_median_days": "7"
+        },
+        "2020": {
+          "complex_average_days": "291.5",
+          "complex_highest_days": "595",
+          "complex_lowest_days": "5",
+          "complex_median_days": "276",
+          "expedited_processing_average_days": "0",
+          "expedited_processing_highest_days": "0",
+          "expedited_processing_lowest_days": "0",
+          "expedited_processing_median_days": "0",
+          "simple_average_days": "30.38",
+          "simple_highest_days": "510",
+          "simple_lowest_days": "1",
+          "simple_median_days": "21"
         }
       },
       "service_center": {
@@ -297,6 +325,34 @@
       "simple_highest_days": "226",
       "simple_lowest_days": "1",
       "simple_median_days": "16"
+    },
+    "2019": {
+      "complex_average_days": "215.06",
+      "complex_highest_days": "874",
+      "complex_lowest_days": "1",
+      "complex_median_days": "123",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "36.47",
+      "simple_highest_days": "376",
+      "simple_lowest_days": "1",
+      "simple_median_days": "7"
+    },
+    "2020": {
+      "complex_average_days": "291.5",
+      "complex_highest_days": "595",
+      "complex_lowest_days": "5",
+      "complex_median_days": "276",
+      "expedited_processing_average_days": "0",
+      "expedited_processing_highest_days": "0",
+      "expedited_processing_lowest_days": "0",
+      "expedited_processing_median_days": "0",
+      "simple_average_days": "30.38",
+      "simple_highest_days": "510",
+      "simple_lowest_days": "1",
+      "simple_median_days": "21"
     }
   }
 }
